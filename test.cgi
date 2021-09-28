@@ -124,9 +124,13 @@
         </div>
       </div>
       <div class="footer">
-        <!-- footer -->
-<a href="https://github.com/yuki-kimoto/giblog">Giblog</a>
+        <div class="perlri_link">
+  <a rel="nofollow" href="https://perlclub.net">Perlクラブ</a>
+</div>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4525414114581084"
+     crossorigin="anonymous"></script>
+     
       </div>
     </div>
   </body>
